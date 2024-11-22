@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Block Blast Solver",
+  "version": "1.0",
+  "description": "A solver tool for Block Blast game",
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": []
+} 
